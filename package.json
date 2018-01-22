@@ -1,0 +1,31 @@
+{
+  "name": "tdd-framework",
+  "version": "1.0.0",
+  "description": "NodeJS module that is targeted for TDD development using a basis of mocha, chai, and sinon",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Altiss/tdd-framework.git"
+  },
+  "keywords": [
+    "tdd",
+    "test",
+    "mocha",
+    "sinon",
+    "chai",
+    "testing",
+    "unit"
+  ],
+  "author": "Kerry Doan <kerry.l.doan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Altiss/tdd-framework/issues"
+  },
+  "homepage": "https://github.com/Altiss/tdd-framework#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-datetime": "^1.5.0",
+    "sinon": "^4.2.0",
+    "sinon-chai": "^2.14.0"
+  }
+}

@@ -1,0 +1,4 @@
+--watch
+--recursive
+--reporter min
+--ui tdd
